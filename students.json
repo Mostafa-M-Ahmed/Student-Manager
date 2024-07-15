@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "mohamed",
+        "email": "mohamed@gmail.com",
+        "password": "mohamed123",
+        "departmentId": 1
+    },
+    {
+        "id": 2,
+        "name": "mostafa",
+        "email": "mostafa@gmail.com",
+        "password": "mostafa",
+        "departmentId": 2
+    },
+    {
+        "id": 3,
+        "name": "salah",
+        "email": "salah@gmail.com",
+        "password": "salah",
+        "departmentId": 3
+    },
+    {
+        "id": 4,
+        "name": "ali",
+        "email": "ali@gmail.com",
+        "password": "ali",
+        "departmentId": 1
+    },
+    {
+        "id": 5,
+        "name": "samar",
+        "email": "samar@gmail.com",
+        "password": "samar",
+        "departmentId": 3
+    },
+    {
+        "id": 7,
+        "name": "daniel",
+        "email": "daniel@gmail.com",
+        "password": "daniel",
+        "departmentId": 6
+    },
+    {
+        "id": 8,
+        "name": "ahmed",
+        "email": "ahmed@gmail.com",
+        "password": "ahmed",
+        "departmentId": 4
+    }
+]
